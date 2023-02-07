@@ -1,0 +1,9 @@
+.card {
+  height: 100%;
+  .card-image {
+    flex:1;
+    .image {
+      object-fit: cover;
+    }
+	}
+}
